@@ -1,0 +1,40 @@
+html, body{
+    background-color : #212121 ;
+    height: 100%;
+    width: 100%;
+    margin:0;
+}
+
+header{
+    background-color : #00000000 ;
+    height : 20% ;
+    color : white ;
+	padding : 20px ;
+}
+
+nav {
+    background-color: #871AED;
+    height: 40%;
+    color: white;
+    margin: 20px;
+	padding: 20px;
+}
+
+main {
+
+    height: 40%;
+    color: white;
+    margin: 20px;
+	padding: 20px;
+}
+article {
+	background-color: #25C7AA;
+    margin: 10px;
+    height: 30%;
+}
+footer{
+    background-color: #14EC23;
+    height: 20%;
+    color: white;
+	padding: 20px;
+}
